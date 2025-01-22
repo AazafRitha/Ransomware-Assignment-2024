@@ -14,4 +14,4 @@ This repository contains my assignment titled **"Ransomware Attacks: Their Evolu
 - `resources/`: Supporting references and materials.
 
 ## Contact
-For any questions or collaboration, feel free to connect with me on [LinkedIn](www.linkedin.com/in/aazafritha).
+For any questions or collaboration, feel free to connect with me on [LinkedIn] (www.linkedin.com/in/aazafritha).
